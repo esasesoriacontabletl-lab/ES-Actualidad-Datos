@@ -1,0 +1,36 @@
+
+name: ES Actualidad - Radar Normativo
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 12 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obtener repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Consultar SUNAT
+        run: python radar.py
+
+      - name: Guardar novedades
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add novedades.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar radar normativo"
+            git push
+          fi
