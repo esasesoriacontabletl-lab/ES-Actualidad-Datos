@@ -1,10 +1,19 @@
 {
-  "ultima_actualizacion": "2026-10-19T13:36:23.318541-05:00",
+  "ultima_actualizacion": "2026-10-20T11:40:42.531325-05:00",
   "fuente": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
   "novedades": [
     {
+      "fecha": "20/10/2026",
+      "titulo": "SUNAT fortalece la integridad institucional con la actualizaci�n de su Pol�tica Antisoborno ... +",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
+    {
       "fecha": "14/10/2026",
-      "titulo": "Le informamos que en estos momentos estamos presentando intermitencia en los siguientes servicios: Sistema Integrado de Registros Electr�nicos - SIRE ... +",
+      "titulo": "Le informamos que en estos momentos estamos presentando intermitencia en el servicio Sistema Integrado de Registros Electr�nicos - SIRE ... +",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
@@ -167,15 +176,6 @@
     {
       "fecha": "22/07/2026",
       "titulo": "En la SUNAT, prevenimos los Conflictos de Intereses ... +",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "20/07/2026",
-      "titulo": "La SUNAT public� el cronograma de la presentaci�n de la declaraci�n del beneficiario final, seg�n la Resoluci�n de Superintendencia N� 168-2025/SUNAT, aplicable a personas jur�dicas y entes jur�dicos 2025, 2026 y en adelante:... +",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
