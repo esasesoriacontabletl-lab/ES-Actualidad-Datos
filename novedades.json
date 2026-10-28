@@ -1,7 +1,16 @@
 {
-  "ultima_actualizacion": "2026-10-27T12:49:36.358398-05:00",
+  "ultima_actualizacion": "2026-10-28T13:13:13.346564-05:00",
   "fuente": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
   "novedades": [
+    {
+      "fecha": "28/10/2026",
+      "titulo": "Le informamos que el jueves 29 de octubre, entre las 00:00 y las 02:00 horas , se realizar�n trabajos de mantenimiento en la plataforma inform�tica de la SUNAT. Por este motivo, los siguientes servicios no estar�n disponibles:... +",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
     {
       "fecha": "20/10/2026",
       "titulo": "SUNAT fortalece la integridad institucional con la actualizaci�n de su Pol�tica Antisoborno ... +",
@@ -167,15 +176,6 @@
     {
       "fecha": "24/07/2026",
       "titulo": "Le informamos que se vienen presentando inconvenientes t�cnicos con los servicios de la App Emprender .... +",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "22/07/2026",
-      "titulo": "En la SUNAT, prevenimos los Conflictos de Intereses ... +",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
