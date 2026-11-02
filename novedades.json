@@ -1,7 +1,16 @@
 {
-  "ultima_actualizacion": "2026-11-01T12:50:12.829881-05:00",
+  "ultima_actualizacion": "2026-11-02T16:36:46.913116-05:00",
   "fuente": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
   "novedades": [
+    {
+      "fecha": "02/11/2026",
+      "titulo": "El RENIEC ha comunicado la suspensi�n temporal e integral de sus servicios, lo que viene afectando las siguientes aplicaciones:... + Octubre",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
     {
       "fecha": "28/10/2026",
       "titulo": "Le informamos que el jueves 29 de octubre, entre las 00:00 y las 02:00 horas , se realizar�n trabajos de mantenimiento en la plataforma inform�tica de la SUNAT. Por este motivo, los siguientes servicios no estar�n disponibles:... +",
@@ -167,15 +176,6 @@
     {
       "fecha": "27/07/2026",
       "titulo": "Le informamos que desde las 15:00 horas del s�bado 08 de agosto hasta las 14:00 horas del domingo 09 de agosto se tiene previsto realizar trabajos de mantenimiento en la plataforma inform�tica de la SUNAT, por lo que no estar�n disponibles los siguientes servicios:.... +",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "24/07/2026",
-      "titulo": "Le informamos que se vienen presentando inconvenientes t�cnicos con los servicios de la App Emprender .... +",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
