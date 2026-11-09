@@ -1,7 +1,16 @@
 {
-  "ultima_actualizacion": "2026-11-08T12:50:07.729838-05:00",
+  "ultima_actualizacion": "2026-11-09T17:10:32.957347-05:00",
   "fuente": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
   "novedades": [
+    {
+      "fecha": "09/11/2026",
+      "titulo": "Principio de probidad y prohibici�n de obtener ventajas indebidas... +",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
     {
       "fecha": "04/11/2026",
       "titulo": "El viernes 13/11/2026 a las 22:00 horas se actualizar� el certificado digital de los Servicios Web de la SUNAT , utilizado a trav�s de los siguientes dominios:... +",
@@ -167,15 +176,6 @@
     {
       "fecha": "10/08/2026",
       "titulo": "Le informamos que en estos momentos estamos presentando intermitencia en la inscripci�n en el RUC desde el APP Personas y en la inscripci�n de participantes del Sorteo de comprobantes de Pago ... +",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "07/08/2026",
-      "titulo": "Le informamos que en estos momentos estamos presentando intermitencia en la inscripción de participantes del Sorteo de comprobantes de Pago ... + Julio",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
