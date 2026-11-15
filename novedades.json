@@ -1,7 +1,16 @@
 {
-  "ultima_actualizacion": "2026-11-14T12:51:05.052990-05:00",
+  "ultima_actualizacion": "2026-11-15T13:41:32.695101-05:00",
   "fuente": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
   "novedades": [
+    {
+      "fecha": "14/11/2026",
+      "titulo": "Le informamos que el sábado 14 de noviembre, desde las 23:30 hrs. hasta las 02:00 hrs . del día domingo 15 de noviembre , se realizarán trabajos de mantenimiento, por este motivo, los siguientes servicios podrían presentar intermitencias: ... +",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
     {
       "fecha": "09/11/2026",
       "titulo": "Principio de probidad y prohibici�n de obtener ventajas indebidas... +",
@@ -167,15 +176,6 @@
     {
       "fecha": "12/08/2026",
       "titulo": "Le informamos que desde las 00:00 horas hasta las 02:00 horas del jueves 13 de agosto se tiene previsto realizar trabajos de mantenimiento en la plataforma informática de la SUNAT, por lo que no estarán disponibles los servicios con los aplicativos IQBF de SUNAT Operaciones en Línea (SOL) y sus consultas / reportes relacionados .... +",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "10/08/2026",
-      "titulo": "Le informamos que en estos momentos estamos presentando intermitencia en la inscripci�n en el RUC desde el APP Personas y en la inscripci�n de participantes del Sorteo de comprobantes de Pago ... +",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
