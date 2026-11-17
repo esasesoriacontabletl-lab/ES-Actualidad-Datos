@@ -1,7 +1,16 @@
 {
-  "ultima_actualizacion": "2026-11-16T16:51:28.483035-05:00",
+  "ultima_actualizacion": "2026-11-17T15:41:56.783069-05:00",
   "fuente": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
   "novedades": [
+    {
+      "fecha": "16/11/2026",
+      "titulo": "Le informamos que el martes 17 de noviembre, desde las 01:00 hrs. hasta las 07:00 hrs ., se realizar�n trabajos de mantenimiento, por este motivo, los siguientes servicios podrían presentar intermitencias: ... +",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
     {
       "fecha": "14/11/2026",
       "titulo": "Le informamos que el sábado 14 de noviembre, desde las 23:30 hrs. hasta las 02:00 hrs . del día domingo 15 de noviembre , se realizarán trabajos de mantenimiento, por este motivo, los siguientes servicios podrían presentar intermitencias: ... +",
@@ -167,15 +176,6 @@
     {
       "fecha": "13/08/2026",
       "titulo": "Los pr�ximos vencimientos para presentar la Declaraci�n de Beneficiario Final � Formulario Virtual 3800, aplicable a personas jur�dicas son:... +",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "12/08/2026",
-      "titulo": "Le informamos que desde las 00:00 horas hasta las 02:00 horas del jueves 13 de agosto se tiene previsto realizar trabajos de mantenimiento en la plataforma informática de la SUNAT, por lo que no estarán disponibles los servicios con los aplicativos IQBF de SUNAT Operaciones en Línea (SOL) y sus consultas / reportes relacionados .... +",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
