@@ -1,7 +1,25 @@
 {
-  "ultima_actualizacion": "2026-11-26T16:16:03.926273-05:00",
+  "ultima_actualizacion": "2026-11-27T15:58:21.565525-05:00",
   "fuente": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
   "novedades": [
+    {
+      "fecha": "27/11/2026",
+      "titulo": "Le informamos que, debido a las intensas lluvias y a las afectaciones ocasionadas por el fen�meno El Ni�o en la regi�n Piura , los Centros de Servicios al Contribuyente de esta regi�n no brindar�n atenci�n presencial hoy, viernes 27 de noviembre ... +",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
+    {
+      "fecha": "26/11/2026",
+      "titulo": "Le informamos que desde las 00:00 horas hasta las 03:00 horas del viernes 27 de noviembre se tiene previsto realizar trabajos de mantenimiento en la plataforma inform�tica de la SUNAT, por lo que se podr�an presentar intermitencias en los siguientes servicios de \"Sistema Integrado de Registros Electrónicos\" ... +",
+      "fuente": "SUNAT",
+      "categoria": "Tributario",
+      "tipo": "Comunicado",
+      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
+      "estado_verificacion": "Pendiente de revisión"
+    },
     {
       "fecha": "20/11/2026",
       "titulo": "Novedades del Reporte Local ... +",
@@ -158,24 +176,6 @@
     {
       "fecha": "02/09/2026",
       "titulo": "Le informamos que en estos momentos estamos presentando intermitencia en los siguientes servicios: Mesa de Partes Virtual - MPV - Actas electr�nicas - SIGERI ... + Agosto",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "18/08/2026",
-      "titulo": "Canales de Denuncias y Medidas de Protecci�n al Denunciante... +",
-      "fuente": "SUNAT",
-      "categoria": "Tributario",
-      "tipo": "Comunicado",
-      "url": "https://www.sunat.gob.pe/mensajes/mensajes-SUNAT.html",
-      "estado_verificacion": "Pendiente de revisión"
-    },
-    {
-      "fecha": "14/08/2026",
-      "titulo": "Le informamos que en estos momentos estamos presentando intermitencia en los siguientes servicios:... +",
       "fuente": "SUNAT",
       "categoria": "Tributario",
       "tipo": "Comunicado",
